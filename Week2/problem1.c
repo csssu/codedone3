@@ -1,3 +1,10 @@
+/*
+Language: c
+ID: 61067
+QLink: https://quera.org/course/assignments/61067/problems
+Author: @Amirkhaskar
+*/
+
 #include <stdio.h>
 #include <math.h>
 

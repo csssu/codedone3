@@ -1,3 +1,8 @@
+# Language: python
+# ID: 61067
+# QLink: https://quera.org/course/assignments/61067/problems
+# Author: @Amirkhaskar
+
 def fits_pattern(num):
    num_str = str(num)
    len_num = len(num_str)

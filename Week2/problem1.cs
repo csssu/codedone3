@@ -1,3 +1,10 @@
+/*
+Language: csharp
+ID: 61067
+QLink: https://quera.org/course/assignments/61067/problems
+Author: @Amirkhaskar
+*/
+
 using System;
 
 class Program

@@ -1,3 +1,10 @@
+/*
+Language: java
+ID: 61067
+QLink: https://quera.org/course/assignments/61067/problems
+Author: @Amirkhaskar
+*/
+
 import java.util.Scanner;
 
 public class Main {
